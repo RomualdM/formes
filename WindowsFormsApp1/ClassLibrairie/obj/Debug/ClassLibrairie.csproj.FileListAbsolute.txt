@@ -1,0 +1,6 @@
+C:\Users\Rmure\source\repos\WindowsFormsApp1\ClassLibrairie\bin\Debug\ClassLibrairie.dll
+C:\Users\Rmure\source\repos\WindowsFormsApp1\ClassLibrairie\bin\Debug\ClassLibrairie.pdb
+C:\Users\Rmure\source\repos\WindowsFormsApp1\ClassLibrairie\obj\Debug\ClassLibrairie.csprojAssemblyReference.cache
+C:\Users\Rmure\source\repos\WindowsFormsApp1\ClassLibrairie\obj\Debug\ClassLibrairie.csproj.CoreCompileInputs.cache
+C:\Users\Rmure\source\repos\WindowsFormsApp1\ClassLibrairie\obj\Debug\ClassLibrairie.dll
+C:\Users\Rmure\source\repos\WindowsFormsApp1\ClassLibrairie\obj\Debug\ClassLibrairie.pdb
